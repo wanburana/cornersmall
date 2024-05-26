@@ -1,0 +1,16 @@
+{
+  "name": "cornersmall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cornerstonejs/core": "^1.74.8",
+    "@cornerstonejs/tools": "^1.74.7",
+    "cornerstone-core": "^2.6.1"
+  }
+}
